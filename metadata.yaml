@@ -1,0 +1,38 @@
+_repo: Os-Lus-adas_3333
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Camões, Luís de
+    aliases:
+    - Camoes, Luis de
+    - Camões,  Luís Vas de
+    - Camões, Luís Vaz de
+    deathdate: 1580
+    gutenberg_agent_id: '1183'
+    url: http://www.gutenberg.org/2009/agents/1183
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Lu%C3%ADs_de_Cam%C3%B5es
+    - http://pt.wikipedia.org/wiki/Lu%C3%ADs_Vaz_de_Cam%C3%B5es
+description: ''
+gutenberg_bookshelf:
+- PT Poesia
+- Poetry
+gutenberg_issued: '2002-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '3333'
+language: pt
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Gama, Vasco da, 1469-1524 -- Poetry'
+- !lcc 'PQ'
+- !lcsh 'Portuguese poetry -- Classical period, 1500-1700'
+- !lcsh 'Explorers -- Portugal -- Poetry'
+- !lcsh 'Epic poetry, Portuguese'
+- !lcsh 'Portugal -- Colonies -- Asia -- Poetry'
+- !lcsh 'India -- Discovery and exploration -- Poetry'
+- GITenberg
+title: Os Lusíadas
+url: http://www.gutenberg.org/ebooks/3333
